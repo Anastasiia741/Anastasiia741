@@ -37,7 +37,8 @@ I am a IOS Developer from Estonia <img src="https://media.giphy.com/media/WUlplc
 ### :woman_student: EDUCATION :
 
 Kyrgyz-Russian Slavic University, Technical Faculty Kyrgyzstan
-- Master’s Degree, Software Project Engineering
+Bishkek, Kyrgyzstan 2020 – 2022
+- Master’s Degree, Software Project Engineering 
 ---
 
 
