@@ -10,7 +10,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a IOS Developer from Estonia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a IOS Developer from Portugal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I’m working as a IOS Developer use different iOS frameworks and app design.
 
