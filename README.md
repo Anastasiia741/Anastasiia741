@@ -38,17 +38,17 @@ I am a IOS Developer from Portugal <img src="https://media.giphy.com/media/WUlpl
 
 Kyrgyz-Russian Slavic University, Technical Faculty Kyrgyzstan
 Bishkek, Kyrgyzstan 2020 – 2022
-- Master’s Degree, Software Project Engineering 
+ Master’s Degree, Software Project Engineering 
 ---
 
 
 ### :open_book: COURSES :
 
 CodeAcademy
-- iOS Developer Career Path - 2022
+ iOS Developer Career Path - 2022
 
 CodeAcademy
-- Build an Intermediate iOS App with SwiftUI - 2023
+ Build an Intermediate iOS App with SwiftUI - 2023
 
 ---
 
