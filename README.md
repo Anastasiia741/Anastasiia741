@@ -12,13 +12,13 @@
 ### :woman_technologist: About Me :
 I am a IOS Developer from Portugal <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- :telescope: I’m working as a IOS Developer use different iOS frameworks and app design.
+ :telescope: I’m working as a IOS Developer use different iOS frameworks and app design.
 
-- :seedling: Exploring Technical Content Writing.
+ :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I study SwiftUI.
+ :zap: In my free time, I study SwiftUI.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-nabatova/)
+ :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-nabatova/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
