@@ -25,7 +25,6 @@ I am a IOS Developer from Portugal <img src="https://media.giphy.com/media/WUlpl
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="SWIFT" alt="SWIFT" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence-original.svg" width="40" height="40"/>&nbsp;
@@ -35,15 +34,12 @@ I am a IOS Developer from Portugal <img src="https://media.giphy.com/media/WUlpl
 </div>
 
 ### :woman_student: EDUCATION :
-
 Kyrgyz-Russian Slavic University, Technical Faculty Kyrgyzstan
 Bishkek, Kyrgyzstan 2020 – 2022
  Master’s Degree, Software Project Engineering 
 ---
 
-
 ### :open_book: COURSES :
-
 CodeAcademy
  iOS Developer Career Path - 2022
 
