@@ -34,10 +34,10 @@ I am a IOS Developer from Portugal <img src="https://media.giphy.com/media/WUlpl
 </div>
 
 ### :woman_student: EDUCATION :
-<h1> Kyrgyz-Russian Slavic University, Technical Faculty Kyrgyzstan
+## Kyrgyz-Russian Slavic University, Technical Faculty Kyrgyzstan
 Bishkek, Kyrgyzstan 2020 – 2022
- Master’s Degree, Software Project Engineering 
-</h1>
+Master’s Degree, Software Project Engineering 
+
 ---
 
 ### :open_book: COURSES :
